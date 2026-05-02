@@ -1,3 +1,7 @@
+News
+--
+repository has been moved to: https://codeberg.org/StormRosenaa/eDroid
+
 # eDroid
 ![eDroidBanner](https://github.com/user-attachments/assets/73cec525-86bb-40c6-ab83-26da6b257ddd)
 
